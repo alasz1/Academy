@@ -1,4 +1,4 @@
-# Academy
+# Quote App
 
 Simple CRUD app (minus the "U") for storing/adding quotes. 
 
